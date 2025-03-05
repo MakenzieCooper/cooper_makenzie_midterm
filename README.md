@@ -1,0 +1,1 @@
+This project is about creating a website for a coffee shop called "Coffee." The website will have sections for the shop's story, menu, locations, and contact info. It will use Bootstrap to make sure the site looks good on all devices. The design will be simple and warm, reflecting the shop's goal of being a welcoming space where people can connect and enjoy quality coffee. 
