@@ -1,0 +1,42 @@
+body {
+    font-family: monospace, sans-serif;
+    background-color: #D5F2ED;
+    margin: 0;
+    padding: 0;
+    color: #391859;
+}
+
+h1 {
+    font-family: Verdana, monospace, sans-serif;
+    color: #498C79;
+    text-align: center;
+    margin-top: 20px;
+}
+
+h2 {
+    font-family: Verdana, monospace, sans-serif;
+    color: #8ABFB0;
+}
+
+.btn-primary {
+    font-family: Verdana, monospace, sans-serif;
+    background-color: #498C79;
+    color: #391859;
+}
+
+.navbar {
+    background-color: #498C79 !important;
+}
+
+.nav-link {
+    color: #8ABFB0 !important;
+}
+
+.container {
+    padding: 20px;
+}
+
+.img-fluid {
+    border-radius: 10px;
+    box-shadow: 0px 4px 6px rgba(138, 191, 176, 0.5);
+}
